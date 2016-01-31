@@ -6,7 +6,7 @@ var express = require('express');
 var serveStatic = require('serve-static');
 
 // environment var port is being set by heroku
-var port = process.env.port || 8080;  
+var port = process.env.PORT || 8080;  
  
 var app = express();
 app.use(serveStatic(__dirname + '/public'));
