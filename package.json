@@ -1,0 +1,23 @@
+{
+  "name": "ashenfelter",
+  "version": "0.0.1",
+  "description": "wine value estimator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jevbelikov/ashenfelter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jevbelikov/ashenfelter/issues"
+  },
+  "homepage": "https://github.com/jevbelikov/ashenfelter#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "serve-static": "^1.10.2"
+  }
+}
