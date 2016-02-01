@@ -1,6 +1,7 @@
 # ashenfelter
 
 project to estimate relative value of wine based on historical weather data
+based on O.Ashenfelter's regression model to help identify over- and underpriced ones
 
 ## demo
 
